@@ -27,9 +27,13 @@
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   </div>
 
+  ## Моя статистика GitHub:
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyatychinin&show_icons=true&hide_title=true&count_private=true)
   <hr style="width: 80%; border-top: 2px solid #ddd;" />
   
-  <p style="font-family: 'Arial', sans-serif; color: #777; font-size: 14px;">
-    Мои проекты на GitHub: <a href="https://github.com/ilyatychinin" target="_blank">GitHub</a>
-  </p>
+  ## Проекты:
+
+  ### 🛠️ [Telegram bot](https://github.com/ilyatychinin/tgbot):
+  Описание проекта: Телеграмм бот на яп Python, бот соединен с модулем авторизации и позволяет создавать тесты внутри Telegram Client
 </div>
